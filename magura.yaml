@@ -1,0 +1,8 @@
+connector: "cmake"
+
+dependencies:
+  - "github.com:libsdl-org.SDL.main:configure"
+  - "github.com:libsdl-org.SDL_ttf.main:configure"
+  - "github.com:RobLoach.sdl2_gfx.master:configure"
+  - "github.com:burbokop.SPM.master"
+
